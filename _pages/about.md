@@ -14,7 +14,7 @@ I received my Masters of Science from Heriot-Watt University and Masters of Engi
 
 
 
-<img src="/images/Bhalerao2021.jpeg" width="200">
+<img src="/images/picture_1.jpg" width="200">
 
 ## News
 
