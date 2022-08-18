@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+   # url: /teaching/    
     
   - title: "CV"
-    url: https://drive.google.com/file/d/1d2RxcU8OIKhxePA98ZZZHlF80hfC6_CO/view?usp=sharing
+    url: https://drive.google.com/file/d/1VCibHvPrrVbp64PrTSs5XdGP8e__8DbK/view?usp=sharing
     
   - title: "Publications"
     url: /publications/ 
