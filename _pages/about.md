@@ -18,6 +18,5 @@ I received my Masters of Science from Heriot-Watt University and Masters of Engi
 
 ## News
 
-- The [July Climate Change AI newsletter](http://eepurl.com/h6MdI5) is out!
-- Our paper "[Ethical Practices for Security Research with At-Risk Populations](https://elissaredmiles.com/research/ethics_2022.pdf)" won the best paper award at the EthiCS 2022 workshop!
-- Our paper "[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://arxiv.org/abs/2202.09527)" was accepted to CSCW 2022!
+- Check our latest project [Extremely Powerful Optical Sources](http://www.epos-space.com/).
+
