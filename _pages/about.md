@@ -8,7 +8,7 @@ redirect_from:
   - about.html
 ---
 
-I am a Eng.D Student in optical communications at G&H (Torquay, UK) & University of Strathclyde (Glasgow, UK), working with Peter Kean Craig Michie & Gordon Flockhart. My research interests are high power optical fibre amplifiers for space based optical communications. In particular, improving the efficiency of existing systems and answering the challenges of space.
+I am a Eng.D Student in optical communications at G&H (Torquay, UK) & University of Strathclyde (Glasgow, UK), working with Peter Kean, Craig Michie & Gordon Flockhart. My research interests are high power optical fibre amplifiers for space based optical communications. In particular, improving the efficiency of existing systems and answering the challenges of space.
 
 I received my Masters of Science from Heriot-Watt University and Masters of Engineering Degrees from IPSA (Paris), both in 2020.
 
