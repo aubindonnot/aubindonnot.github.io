@@ -77,7 +77,7 @@ analytics:
   google:
     tracking_id          : "G-6C9XPKTKSE"
 
-
+google_analytics: "G-6C9XPKTKSE"
 # Site Author
 author:
   name             : "Aubin Donnot"
